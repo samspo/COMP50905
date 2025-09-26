@@ -1,12 +1,12 @@
 #+Title: Comptabilité de gestion et mesure de la performance
-#+subtitle: Mini-manuel - COMP50903
+#+subtitle: Mini-manuel - COMP50905
 #+Author:Samuel Sponem - HEC Montréal
 #+Date:Mise à jour {{{time(%Y-%m-%d)}}}
 #+language: fr
 #+OPTIONS: todo:nil \n:true
 #+latex_class: kaobook
 #+LATEX_HEADER: \renewcommand{\footnote}{\sidenote}
-#+export_file_name: Textbook50903.pdf 
+#+export_file_name: Textbook50905.pdf 
 #+setupfile: ../../../Workflow/Templates/Org-Html/org-html-themes/org/theme-readtheorg.setup
 
 @@latex:\mainmatter@@
@@ -19,13 +19,13 @@
   :END:
 
 #+begin_kaobox
-/Ce mini-manuel complète les diapositives du cours COMP50903. Idéalement, la section correspondant au cours doit être lue préalablement au cours./
+/Ce mini-manuel complète les diapositives du cours COMP50905. Idéalement, la section correspondant au cours doit être lue préalablement au cours./
 
 Vous trouverez dans ce mini-manuel des liens vers des vidéos(*), des exercices et des liens vers des quiz qui vous permettent de vérifier votre compréhension. Pour compléter votre apprentissage, des exercices sont aussi disponibles sur ZoneCours.
 
 /Vous pouvez trouver en ligne la version la plus récente de ce document/
-- html : https://samspo.github.io/COMP50903
-- pdf : https://samspo.github.io/COMP50903/Textbook50903.pdf
+- html : https://samspo.github.io/COMP50905
+- pdf : https://samspo.github.io/COMP50905/Textbook50905.pdf
 
 /(*)Les vidéos sont tirées de Tessier, S et Vézina, M. SC-102.5 - Décisions financières et gestion budgétaire. Edulib/
 #+end_kaobox
@@ -78,7 +78,7 @@ Ce document propose une introduction à la comptabilité de gestion et à ses di
 - de comprendre les enjeux de la mesure de la performance et connaître ses effets sur les comportements.
 
 *Pour chaque section, vous pouvez faire les exercices disponibles sur ZoneCours et vérifier vos connaissances à l'aide de quiz d’entrainement disponibles à l'adresse suivante :*
-https://app.wooclap.com/COMP50903
+https://app.wooclap.com/COMP50905
 Ces quiz sont optionnels et non évalués. Les quiz obligatoires sont disponibles sur ZoneCours.
 #+end_kaobox
 \\
@@ -359,7 +359,7 @@ Le seuil de rentabilité est ainsi extrêmement utile pour faire un calcul simpl
 
 #+begin_kaobox
 Pour vous exercer sur cette section, voir les exercices sur ZoneCours et le quiz d'entrainement :
-https://app.wooclap.com/COMP50903/questionnaires/5f6897932655921192ee504c
+https://app.wooclap.com/COMP50905/questionnaires/5f6897932655921192ee504c
 #+end_kaobox
 \\
 
@@ -699,7 +699,7 @@ La méthode de calcul des coûts retenue doit être pertinente pour la décision
 \\
 #+begin_kaobox
 Pour vous exercer sur cette section, voir les exercices sur ZoneCours et le quiz d'entrainement :
-https://app.wooclap.com/COMP50903/questionnaires/5f6898aee60d387141539337
+https://app.wooclap.com/COMP50905/questionnaires/5f6898aee60d387141539337
 #+end_kaobox
 \\
 
@@ -1042,7 +1042,7 @@ La planification et le budget sont des outils au cœur du fonctionnement des gra
 
 #+begin_kaobox
 Pour vous exercer sur cette section, voir les exercices sur ZoneCours et le quiz d'entrainement :
-https://app.wooclap.com/COMP50903/questionnaires/5f6898f251af0040aba9284c
+https://app.wooclap.com/COMP50905/questionnaires/5f6898f251af0040aba9284c
 #+end_kaobox
 \\
 * Mesure et gestion de la performance
@@ -1438,7 +1438,7 @@ Inversement, laisser une liberté d’achat et de vente en interne ou en externe
 
 #+begin_kaobox
 Pour vous exercer sur cette section, voir le quiz d'entrainement :
-https://app.wooclap.com/COMP50903/questionnaires/5f689959ca402c5d7fde62cf
+https://app.wooclap.com/COMP50905/questionnaires/5f689959ca402c5d7fde62cf
 #+end_kaobox
 \\
 
