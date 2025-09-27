@@ -6,8 +6,7 @@
 #+OPTIONS: todo:nil \n:true
 #+latex_class: kaobook
 #+LATEX_HEADER: \renewcommand{\footnote}{\sidenote}
-#+export_file_name: Textbook50905.pdf 
-#+setupfile: ../../../Workflow/Templates/Org-Html/org-html-themes/org/theme-readtheorg.setup
+#+export_file_name: index.html
 
 @@latex:\mainmatter@@
 @@latex:\setchapterstyle{kao}@@
